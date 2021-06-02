@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/albert-kurniawan/albert_kurniawan/main/images/IMG-20180506-WA0009_cropped.jpg){:height="50%" width="50%"}
+![alt text]<img src="https://raw.githubusercontent.com/albert-kurniawan/albert_kurniawan/main/images/IMG-20180506-WA0009_cropped.jpg" height="50%" width="50%">
 
 <!-- Add your details -->
 
@@ -24,6 +24,7 @@ I am __Albert Kurniawan__, an all-rounder in my previour company and an aspiring
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[Extracurricular](#extracurricular) <br>
 
 <!-- ABOUT Section Ends -->
 
@@ -83,3 +84,6 @@ Machine Learning by Columbia University
 ##### Achievements
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
+
+### Extracurricular
+Test
