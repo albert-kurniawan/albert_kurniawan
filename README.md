@@ -4,7 +4,7 @@
 <!-- Add your details -->
 ✉️: albert.kurniawan92@gmail.com
 &nbsp;&nbsp; 📲 +65 83723396
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/albert-kurniawan-74694710a/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/albert-kurniawan-74694710a/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
 
@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/albert-kurniawan/albert_kurniawan/main/images/IMG-20180506-WA0009_cropped.jpg)
+![alt text](https://raw.githubusercontent.com/albert-kurniawan/albert_kurniawan/main/images/IMG-20180506-WA0009_cropped.jpg){:height="50%" width="50%"}
 
 <!-- Add your details -->
 
